@@ -32,9 +32,6 @@ Nirbhaya is a web-based safety platform designed to empower women and provide th
 
 -   **SOS:** Press the SOS button to send an emergency alert.
 -   **Location Tracking:** Enable location tracking to share your live location.
--   **Voice Recording:** Record audio and save it to your account.
--   **Volunteer Network:** Find and contact nearby volunteers for assistance.
--   **Emergency Contacts:** Add and manage emergency contact information.
 -   **Helpline:** Access important helpline numbers quickly.
 
 ## Contributing
